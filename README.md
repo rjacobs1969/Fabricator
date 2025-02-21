@@ -1,4 +1,4 @@
-# The 3D Printer That Fits in a Billy: Solving Space Constraints with a custom designed 3d printer
+# The 3D Printer That Fits in a Billy: Solving Space Constraints in a small apartment
 
 ## Introduction
 The struggle to balance my passion for 3D printing with the limited square footage of my apartment led to an innovative solution that maximized space and seamlessly integrated into my living environment. It all began with one of my favorite hobbies—3D printing. However, the constant battle for space in my apartment left me searching for a way to accommodate a 3D printer without sacrificing precious room. That’s when inspiration struck: I decided to design a 3D printer that would perfectly fit into one of the most ubiquitous pieces of furniture—the Ikea Billy bookcase.
