@@ -52,7 +52,7 @@ Slide the rails with nuts into the vertical profiles facing each other the long 
 
 Adjust the height of the rail to start 6cm from the bottom, hint: you can use the 2060 profile to do so
 
-<img src="using2060profileForHeightAdjust" width="640">
+<img src="using2060profileForHeightAdjust.jpg" width="640">
 
 Add the Z-limits so the carriages cannot fall of the rails
 
