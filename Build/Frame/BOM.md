@@ -17,12 +17,16 @@
 ## Additional Components
 
 - 8x Corner L plates
-![Corner L plates](cornerAnglePlates.png)
-- 8x Corner brackets
-![Corner brackets](CornerBrackets.png)
-- 8x Interior corner brackets
-![Interior corner brackets](InteriorCornerBrackets.png)
-- T-nuts or T-blocks (M3 for fixing the rails, M5 for everything else)
-![T-nuts or T-blocks](tblocks.png)
 
-[Assembly](Assembly.md)
+<img src="cornerAnglePlates.png" alt="Corner L plates" width="320">
+- 8x Corner brackets
+
+<img src="CornerBrackets.png" alt="Corner brackets" width="320">
+- 8x Interior corner brackets
+
+<img src="InteriorCornerBrackets.png" alt="Interior corner brackets" width="320">
+- T-nuts or T-blocks (M3 for fixing the rails, M5 for everything else)
+
+<img src="tblocks.png" alt="T-nuts or T-blocks" width="320">
+
+##Next : [Assembly](Assembly.md)
