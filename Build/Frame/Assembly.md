@@ -65,6 +65,7 @@ Fix the top frame to the rest of the frame
 - 2X 2040 250mm profile
 - 4X Nema17 34mm height stepper motors
 - 4X Nema17 Bracket Aluminum Plate
+- 4x 60mm 3 hole 2020 mounting plates and 5mm spacers
 
 <img src="nema17plate.png" width="640">
 
@@ -73,7 +74,7 @@ Fix the motors to the plates
 <img src="ZMotor_ass1.jpg" width="640">
 <img src="ZMotor_ass2.jpg" width="640">
 
-Fix the plates to the profile
+Fix the plates to the profile (using M5 t-blocks/nuts and bolts)
 
 <img src="ZMotor_ass3.jpg" width="640">
 
