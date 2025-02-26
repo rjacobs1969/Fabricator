@@ -69,12 +69,13 @@ Fix the top frame to the rest of the frame
 
 <img src="nema17plate.png" width="640">
 
-Fix the motors to the plates
+Fix the motors to the plates, note the connector of the stepper wires should be on the side
 
 <img src="ZMotor_ass1.jpg" width="640">
 <img src="ZMotor_ass2.jpg" width="640">
 
-Fix the plates to the profile (using M5 t-blocks/nuts and bolts)
+Fix the plates to the profile (using M5 t-blocks/nuts and bolts) make sure the connectors of the stepper wires
+face each other as pictured
 
 <img src="ZMotor_ass3.jpg" width="640">
 
@@ -84,6 +85,6 @@ do so for the left as well as the right side of the printer
 
 <img src="Zmotor_ass4.png" width="640">
 
-##Next : [Assembly of the bed frame](BedFrameAssembly.md)
+## Next : [Assembly of the bed frame](BedFrameAssembly.md)
 
 
