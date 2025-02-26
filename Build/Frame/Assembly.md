@@ -27,9 +27,9 @@ Assemble in the same way as the bottom part
 
 ## Vertical
 
-4X 2020 500mm profiles (or 550mm)
-4X MGN9H 350 or 400mm rails
-4X End of travel blocks (printed) [STL](../../STL/endStop.stl)
+- 4X 2020 500mm profiles (or 550mm)
+- 4X MGN9H 350 or 400mm rails
+- 4X End of travel blocks (printed) [STL](../../STL/endStop.stl)
 
 <img src="vertical.png" width="640">
 
@@ -59,6 +59,29 @@ Add the Z-limits so the carriages cannot fall of the rails
 <img src="z-limits.jpg" width="640">
 
 Fix the top frame to the rest of the frame
+
+## Z-Motors mount
+
+- 2X 2040 250mm profile
+- 4X Nema17 34mm height stepper motors
+- 4X Nema17 Bracket Aluminum Plate
+
+<img src="nema17plate.png" width="640">
+
+Fix the motors to the plates
+
+<img src="ZMotor_ass1.jpg" width="640">
+<img src="ZMotor_ass2.jpg" width="640">
+
+Fix the plates to the profile
+
+<img src="ZMotor_ass3.jpg" width="640">
+
+Fix the profile to the frame, the motors should just touch the vertical profiles
+of the frame and the backside should be flush the sides of the printer,
+do so for the left as well as the right side of the printer
+
+<img src="Zmotor_ass4.png" width="640">
 
 ##Next : [Assembly of the bed frame](BedFrameAssembly.md)
 
